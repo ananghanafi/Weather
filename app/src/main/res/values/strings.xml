@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="cerah">&#xf00d;</string>
+    <string name="malam_cerah">&#xf02e;</string>
+    <string name="mendung">&#xf014;</string>
+    <string name="berawan">&#xf013;</string>
+    <string name="hujan">&#xf019;</string>
+    <string name="salju">&#xf01b;</string>
+    <string name="badai">&#xf01e;</string>
+    <string name="gerimis">&#xf01c;</string>
+    <string name="tidak_ada">Maaf, Tidak di temukan data cuaca</string>
+    <string name="maps_app_id">11111</string>
+</resources>
